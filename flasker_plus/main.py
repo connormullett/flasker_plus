@@ -21,6 +21,6 @@ def start():
 
     os.system('git clone %s %s' % (TEMPLATE_URL, install_path))
 
-    print('Install Complete, check the readme at
-            https://github.com/connormullett/flasker_plus')
+    print('Install Complete, check the readme at' \
+            'https://github.com/connormullett/flasker_plus')
 
