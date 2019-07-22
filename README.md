@@ -6,7 +6,8 @@ Simple Boilerplate to get started with Rest+ fast for building WebApps
 
 # Installation and Usage
 
- - `pip install flaskerplus`
+ - Clone the repo and cd into it
+ - `pip install -e .`
  - `flaskerplus start`
 
 
